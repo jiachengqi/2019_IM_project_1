@@ -1,0 +1,5 @@
+,class_name,method_num,path
+0,XSDHandler,118,res/xerces2-j/src/org/apache/xerces/impl/xs/traversers/XSDHandler.java
+1,DTDGrammar,101,res/xerces2-j/src/org/apache/xerces/impl/dtd/DTDGrammar.java
+2,XIncludeHandler,116,res/xerces2-j/src/org/apache/xerces/xinclude/XIncludeHandler.java
+3,CoreDocumentImpl,125,res/xerces2-j/src/org/apache/xerces/dom/CoreDocumentImpl.java
